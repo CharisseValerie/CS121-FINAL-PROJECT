@@ -18,7 +18,7 @@ class BankAccount:
         print(f'User: {self.name}\t Account No: {self.cust_acc_num}\t Balance: ₹{self.acc_balance}')
 
     def deposit(self):
-        amount = int(input('Enter the deposit amount: '))
+        amount = int(input('Enter the Deposit amount: '))
         if amount > 0:
             self.acc_balance      = self.acc_balance + amount
             print(f'Transaction completed. Current Balance: ₹{self.acc_balance}')
@@ -26,7 +26,7 @@ class BankAccount:
             print('Invalid amount transaction aborted')
 
     def withdrawl(self):
-        amount = int(input('Enter the withdrawl amount: '))
+        amount = int(input('Enter the Withdrawl amount: '))
         if amount <= self.acc_balance and amount > 0:
             self.acc_balance      = self.acc_balance - amount
             print(f'Transaction completed. Current Balance: ₹{self.acc_balance}')
@@ -45,8 +45,8 @@ class BankAccount:
 
 if __name__ == '__main__':
 
-    cust1 = BankAccount(name='Ishaan', mobile_no=9876543210, initial_depo=1000, pin=123)
-    cust2 = BankAccount(name='Akash', mobile_no=9876543212, initial_depo=2000, pin=456)
+    cust1 = BankAccount(name='Patrcik', mobile_no=9876543210, initial_depo=1000, pin=111)
+    cust2 = BankAccount(name='Jerome', mobile_no=9876543212, initial_depo=2000, pin=222)
     print('No. of customers is',BankAccount.no_of_cust)
     print(cust1.basic_details())
     print(cust2.basic_details())
