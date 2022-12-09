@@ -3,7 +3,7 @@
 
 Here's what this project do:
 
- Prompt user by asking "what would you like? (espresso/latte/cappuccino): "
+- [✓] Prompt user by asking "what would you like? (espresso/latte/cappuccino): "
  Turn off the Coffee Machine by entering "off" to the prompt.
  Print the report.
  Check if resources are sufficient.
