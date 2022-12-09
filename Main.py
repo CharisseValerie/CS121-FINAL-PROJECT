@@ -15,13 +15,13 @@ class BankAccount:
         BankAccount.no_of_cust    = BankAccount.no_of_cust + 1
 
     def basic_details(self):
-        print(f'User: {self.name}\t Account No: {self.cust_acc_num}\t Balance: ₹{self.acc_balance}')
+        print(f'User: {self.name}\t Account No: {self.cust_acc_num}\t Balance: ₱{self.acc_balance}')
 
     def deposit(self):
         amount = int(input('Enter the Deposit amount: '))
         if amount > 0:
             self.acc_balance      = self.acc_balance + amount
-            print(f'Transaction completed. Current Balance: ₹{self.acc_balance}')
+            print(f'Transaction completed. Current Balance: ₱{self.acc_balance}')
         else:
             print('Invalid amount transaction aborted')
 
@@ -29,7 +29,7 @@ class BankAccount:
         amount = int(input('Enter the Withdrawl amount: '))
         if amount <= self.acc_balance and amount > 0:
             self.acc_balance      = self.acc_balance - amount
-            print(f'Transaction completed. Current Balance: ₹{self.acc_balance}')
+            print(f'Transaction completed. Current Balance: ₱{self.acc_balance}')
         else:
             print('Invalid amount transaction aborted')
 
@@ -38,7 +38,7 @@ class BankAccount:
         if amount <= self.acc_balance and amount > 0:
             self.acc_balance      = self.acc_balance - amount
             other.acc_balance     = other.acc_balance + amount
-            print(f'Transaction completed. Current Balance: ₹{self.acc_balance}')
+            print(f'Transaction completed. Current Balance: ₱{self.acc_balance}')
         else:
             print('Invalid amount transaction aborted')
 
