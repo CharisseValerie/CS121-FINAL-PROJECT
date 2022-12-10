@@ -8,3 +8,6 @@
 - Process coins.
 - Check if transaction is successful.
 - Make coffee.
+
+Self-Assessment
+![318101587_718790992909902_7759624681295830653_n](https://user-images.githubusercontent.com/112959261/206857325-e5b39bea-da0e-4f8a-bbce-a2325270c281.jpg)
