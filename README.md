@@ -11,7 +11,7 @@
 
 Video Presentation
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/VvPprS3g1xU/0.jpg)](http://www.youtube.com/watch?v=VvPprS3g1xU)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ENwYnv2SKvs/0.jpg)](http://www.youtube.com/watch?v=ENwYnv2SKvs)
 
 Self-Assessment
 
