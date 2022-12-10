@@ -11,7 +11,7 @@
 
 Video Presentation
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VvPprS3g1xU" target="_blank"><img src=" http://img.youtube.com/vi/VvPprS3g1xU/0.jpg"                    
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VvPprS3g1xU" target="_blank"><img src=" http://img.youtube.com/vi/112956946/206860379-3d88d9f1-9a08-4d09-824d-ac1080af1893.jpg"                    
                                                                                                   
 alt="COFFEE MACHINE" width="240" height="180" border="10" /></a>
 
