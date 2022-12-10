@@ -1,6 +1,8 @@
 # CS121-FINAL-PROJECT | Alerio's Coffee Machine
 #### Machine System ####
 
+https://youtu.be/VvPprS3g1xU
+
 Here's what this project do:
 
 - Prompt user by asking "what would you like? (choco/mocha/cappuccino): "
