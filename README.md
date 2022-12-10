@@ -9,5 +9,10 @@
 - Check if transaction is successful.
 - Make coffee.
 
+Video Presentation
+<a href="http://www.youtube.com/watch?v=VvPprS3g1xU" target="_blank"><img src="![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)0.jpg" 
+
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 Self-Assessment
 ![318101587_718790992909902_7759624681295830653_n](https://user-images.githubusercontent.com/112959261/206857325-e5b39bea-da0e-4f8a-bbce-a2325270c281.jpg)
